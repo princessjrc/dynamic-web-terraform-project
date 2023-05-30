@@ -1,2 +1,2 @@
-# prdynamic-web-terraform-project
+# dynamic-web-terraform-project
 This is a repository for my Dynamic Website Terraform project.
